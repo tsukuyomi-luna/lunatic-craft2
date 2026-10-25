@@ -1,0 +1,13 @@
+name = "Reach Behind"
+filename = "ReachBehind-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MDljZreW/versions/Gqwyhx4G/ReachBehind-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "377b9854f835dd4a331082a1f00510c532e2e4989b31382d51b2a30da1ee9e8d4215d86cd1733c052dce18ebb04b3310925be4d985f9a920d92e4b8d1b12240f"
+
+[update]
+[update.modrinth]
+mod-id = "MDljZreW"
+version = "Gqwyhx4G"

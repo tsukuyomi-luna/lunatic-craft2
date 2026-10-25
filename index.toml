@@ -9,6 +9,11 @@ file = "config/solcarrot-server.toml"
 hash = "ef7efc5f50e8ec1680834190ce3030c2aa77f160df4f0a546609d1a234710edd"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -216,6 +221,16 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
+file = "mods/effect-insights.pw.toml"
+hash = "e5b6e0e69276f5dcc5adb13db923679b6f2a4ccc3cf828f3adff24e4308db307"
 metafile = true
 
 [[files]]
@@ -479,8 +494,18 @@ hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
@@ -491,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "2e0b31d4a3d4298045b368558ce7fe191a13bccb02a4524ca748598a9dcf4ca5"
 metafile = true
 
 [[files]]
@@ -589,6 +619,11 @@ hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "bb1a2b476e6ebd3b6deef2047f7a4ae3a0b8dfcd967bff710dede2803bd9b5bd"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
 metafile = true
@@ -601,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "2684f71394862cff4c20d0f4d8491c0f86f12e66879381295e9088e0eded025d"
 metafile = true
 
 [[files]]

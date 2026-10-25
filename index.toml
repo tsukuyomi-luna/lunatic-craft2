@@ -359,6 +359,11 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/irons-artifice.pw.toml"
+hash = "a5a452c1f6d3fd2878115dbc0bcbb6454b219ff6aab184255a0cc59a3a940765"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "93f7a09e0d9a05c31b55bb9725545c49dc68067556a98d470e4f405bdbf3b25c"
 metafile = true

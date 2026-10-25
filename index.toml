@@ -5,6 +5,10 @@ file = "config/simplebackups-common.toml"
 hash = "7c2aacdd595b22ad7d087c1c5d7945e1bac80cbd935770396c5a89194bfe9eb7"
 
 [[files]]
+file = "config/solcarrot-server.toml"
+hash = "ef7efc5f50e8ec1680834190ce3030c2aa77f160df4f0a546609d1a234710edd"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -577,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]

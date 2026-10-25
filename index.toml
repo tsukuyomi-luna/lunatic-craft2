@@ -189,11 +189,6 @@ hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "63d1560de24b53cad7052d19c1a44b4eab64ad9f696d01c9f2a72fccd5540557"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -236,11 +231,6 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
-metafile = true
-
-[[files]]
-file = "mods/enhancedvisuals.pw.toml"
-hash = "96990b3474ae0447921939535f3a89f12ed839d3d029ab8e653b0e445374648e"
 metafile = true
 
 [[files]]
@@ -479,6 +469,11 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
+file = "mods/perception.pw.toml"
+hash = "378f188dd4dd616783418b9169e6016d5eff359a13c6debeb64c82093637e8e9"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
@@ -531,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "83af110edfdb0b5fdaeffda4d1df9d8f946a10257b054017a3ca065517f6a6ef"
 metafile = true
 
 [[files]]

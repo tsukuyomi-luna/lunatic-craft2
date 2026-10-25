@@ -18,7 +18,7 @@ Prism Launcher 用の zip を [Releases](https://github.com/tsukuyomi-luna/lunat
 
 - Create — Create、Create Aeronautics（Sable）、Big Cannons、Enchantment Industry、Numismatics、Trading Floor ほか乗り物・物流・装飾のアドオン
 - 魔術 — Iron's Spells 'n Spellbooks、Ars Nouveau（Ars Creo で Create と連携）
-- 探索 — The Aether、Deeper and Darker、Terralith、YUNG's Better 系、IDAS、Integrated Villages、Towns and Towers、Dungeons and Taverns
+- 探索 — The Aether、Deeper and Darker、Terralith、Tectonic、YUNG's Better 系、IDAS、Integrated Villages / Stronghold、Dungeons and Taverns
 - 生活・建築 — Farmer's Delight、Supplementaries、Quark、Macaw's 系、Handcrafted
 - マルチ — FTB Chunks / Teams（地図と土地保護）、FTB Chunks: Sable Aerospace（保護を乗り物にも適用）、Waystones、Simple Discord Link
 

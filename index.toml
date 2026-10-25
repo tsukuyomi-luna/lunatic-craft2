@@ -59,6 +59,11 @@ hash = "80455b28c3010ad153ccabc2998cb445b9854b26b386628243a9c8160b8d7e8e"
 metafile = true
 
 [[files]]
+file = "mods/cinematic-respawn.pw.toml"
+hash = "283ca99ed8575b89cac4f72ec2dc1f268d48f7481c09e1a37cdd5e198fddd244"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -534,6 +539,11 @@ hash = "95852dac201a784091aaccc2249151b527a418935e78b8cafd276384eea532d5"
 metafile = true
 
 [[files]]
+file = "mods/slabbed.pw.toml"
+hash = "5efe5ece144c9f51713123c9ac20471fab5de427c33fefe3f62ed3cb33151f8b"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "3c24accda8011a6a5e04c49c40e39617bb04ab3a549d8f2e8180d3246fddac39"
 metafile = true
@@ -591,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
+metafile = true
+
+[[files]]
+file = "mods/swirling-smoke.pw.toml"
+hash = "54d778479d0f797851e3d69230bd0f71d5bbf7b798d9ca92c7a03a26469b3874"
 metafile = true
 
 [[files]]

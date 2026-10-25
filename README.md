@@ -37,7 +37,7 @@ mise install
 mise exec -- packwiz refresh
 ```
 
-MOD を追加・更新するときは、公開から 3 日以上たった版を `--version-id`（CurseForge は `--file-id`）で指定します
+MOD は 1.21.1 の NeoForge 版のうち、リリース版があればその最新、なければベータの最新を入れます（アルファは使いません）
 
 配布用 zip は `python3 scripts/build-prism.py` で `build/` に作り、GitHub Release に添付します。zip は pack の URL を指すだけなので、MOD の更新では作り直す必要はありません
 

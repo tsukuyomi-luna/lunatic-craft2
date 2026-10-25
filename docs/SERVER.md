@@ -12,6 +12,7 @@ server もクライアントと同じ `pack.toml` を参照し、packwiz-install
 | メモリ | `-Xms4G -Xmx9G`（`user_jvm_args.txt`） |
 | 描画距離 | view-distance 10 / simulation-distance 8 |
 | バックアップ | Simple Backups が 2 時間ごとに `simplebackups/` へ出力。`simplebackups` は HDD の `/opt/minecraft/backups/lunatic-craft2` への symlink |
+| Web 地図 | BlueMap（8100 番）。server の `config/bluemap/core.conf` で `accept-download: true`、`render-thread-count: 2` |
 | Discord | Simple Discord Link。トークンとチャンネルは server の `config/simple-discord-link/simple-discord-link.toml` にだけ置く |
 
 `server.properties` と Discord の設定は repository で管理しません。RCON のパスワードも server の `server.properties` にだけあります

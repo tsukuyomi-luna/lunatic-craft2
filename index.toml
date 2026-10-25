@@ -14,11 +14,6 @@ hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "42413941c5bab46833498305fd78892cf6af8cb0fa3f2599619acf3b26f1a0aa"
 metafile = true
@@ -39,16 +34,6 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/ars-creo.pw.toml"
-hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
-metafile = true
-
-[[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
@@ -56,11 +41,6 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
-metafile = true
-
-[[files]]
-file = "mods/better-combat.pw.toml"
-hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
 metafile = true
 
 [[files]]
@@ -209,18 +189,8 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns.pw.toml"
-hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
@@ -499,11 +469,6 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
@@ -556,16 +521,6 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "95852dac201a784091aaccc2249151b527a418935e78b8cafd276384eea532d5"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "f11837c4f049aeb3b7ceb086f4c7b1347bfad1826f47722cbdc8b2b38df0067e"
-metafile = true
-
-[[files]]
-file = "mods/simply-tooltips.pw.toml"
-hash = "c0fc5806a57b80b1e06733df7dabd18d0e61d11b66ed09470fa7f5bb175b3238"
 metafile = true
 
 [[files]]

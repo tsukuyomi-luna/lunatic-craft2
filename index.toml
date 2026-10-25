@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "44a0feccbb729245d470d5822e4171248610ab895cae31b0e9a626fbe9c294f4"
+hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1accc5c6c8e24fd427969902c17df873d5355d6a6bb5f0c6eb88b2dd76574237"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]

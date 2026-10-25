@@ -8,6 +8,12 @@ Create と Create Aeronautics を中心に、バニラの遊びを残した Mine
 - NeoForge 21.1.264
 - Java 21
 
+## 導入
+
+Prism Launcher 用の zip を [Releases](https://github.com/tsukuyomi-luna/lunatic-craft2/releases/latest) から取得し、`インスタンスを追加 → zipからインポート` で読み込んでください。以後は起動前に packwiz-installer が差分を同期します
+
+詳しくは [クライアント導入ガイド](docs/INSTALL.md) を参照してください
+
 ## 構成
 
 - Create — Create、Create Aeronautics（Sable）、Big Cannons、Enchantment Industry、Numismatics、Trading Floor ほか乗り物・物流・装飾のアドオン
@@ -17,10 +23,6 @@ Create と Create Aeronautics を中心に、バニラの遊びを残した Mine
 - マルチ — FTB Chunks / Teams（地図と土地保護）、FTB Chunks: Sable Aerospace（保護を乗り物にも適用）、Waystones、Simple Discord Link
 
 完全な一覧は `mods/` を参照してください
-
-## 任意の MOD
-
-Iris（シェーダー）と CreateBetterFps は既定で無効です。Iris を使うと Create Aeronautics の乗り物の表示が崩れることがあります
 
 ## 開発
 
@@ -32,6 +34,8 @@ mise exec -- packwiz refresh
 ```
 
 MOD を追加・更新するときは、公開から 3 日以上たった版を `--version-id`（CurseForge は `--file-id`）で指定します
+
+配布用 zip は `python3 scripts/build-prism.py` で `build/` に作り、GitHub Release に添付します。zip は pack の URL を指すだけなので、MOD の更新では作り直す必要はありません
 
 ## 権利
 

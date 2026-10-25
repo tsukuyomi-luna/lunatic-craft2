@@ -554,3 +554,7 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "eef1c82e786a090342c8be5d112645b0c4dea8e2f6d47dc6ac5f2594217406fa"

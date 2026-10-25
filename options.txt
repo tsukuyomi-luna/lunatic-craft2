@@ -1,1 +1,1 @@
-resourcePacks:["vanilla","file/FreshAnimations_v1.11.1_1.20+.zip","file/DetailedAnimationsReworked - V1.15.zip","file/AzukiV51.zip"]
+resourcePacks:["vanilla","file/FreshAnimations_v1.11.1_1.20+.zip","file/AzukiV51.zip"]

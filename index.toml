@@ -79,6 +79,11 @@ hash = "50f0fe22bec82ed6336a259931394271a1ebb71bb77e682ee233d96134305ccd"
 metafile = true
 
 [[files]]
+file = "mods/cpa.pw.toml"
+hash = "bf2971d156b25366b21f58eafd4a46e03608e164e4aa3bef144be2bca1fea7fd"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "e22afb762eb3161a8114545dc97affda25b4cb519b79b81e9bc7533d9b09e74f"
 metafile = true
@@ -474,6 +479,11 @@ hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "b58d160c5d2f7405e8e334f574c79138dcfcf80144d6e2b591d2c4748118553d"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -650,13 +660,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2e6c2fe0bcfad88e2e1adcd2c3e4fca07d04e4a97a3e2c420f9c0a613ebf7f95"
+hash = "8d00de6381b79276a7f88fe086b4f6d7136e4d8d5e51b76df9e530f9df2db115"
 preserve = true
-
-[[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
-metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

@@ -1,0 +1,6 @@
+/build/
+/.git/
+/.github/
+/docs/
+/README.md
+/mise.toml

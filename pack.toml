@@ -1,0 +1,13 @@
+name = "Lunatic Craft 2"
+author = "Tsukuyomi Luna & shun"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d72b26b0746884d5b8edfdf82da41bf29aac79f646010f1f5d8e660f4d24788"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"

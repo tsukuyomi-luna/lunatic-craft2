@@ -21,6 +21,10 @@ Java 21 は Prism Launcher 9 以降なら自動で用意されます。手動で
 
 `saves`、`screenshots`、`shaderpacks`、個人の `options.txt` は上書きされません
 
+## リソースパック
+
+三人称視点のプレイヤーの動きを細かくする Detailed Animations が入っています。`設定 → リソースパック` で有効にしてください
+
 ## シェーダー
 
 Iris が入っています。シェーダーパックは各自で `shaderpacks` に入れ、ビデオ設定の `シェーダーパック` から選んでください。Create Aeronautics の乗り物の表示が崩れたら、シェーダーを切ってください

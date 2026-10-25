@@ -24,6 +24,10 @@ Prism Launcher 用の zip を [Releases](https://github.com/tsukuyomi-luna/lunat
 
 完全な一覧は `mods/` を参照してください
 
+## サーバー
+
+構築と更新の手順は [サーバー運用ガイド](docs/SERVER.md) を参照してください
+
 ## 開発
 
 packwiz は mise で固定しています

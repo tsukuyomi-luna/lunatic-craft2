@@ -1,0 +1,37 @@
+# サーバー運用ガイド
+
+server もクライアントと同じ `pack.toml` を参照し、packwiz-installer の server side filter でクライアント専用 MOD を除いて同期します
+
+## 構成
+
+| 項目 | 値 |
+|---|---|
+| ディレクトリ | `/opt/minecraft/lunatic-craft2` |
+| service | `lunatic-craft2.service`（起動前に packwiz 同期） |
+| Java | `/usr/lib/jvm/java-21-openjdk-amd64`（`openjdk-21-jre-headless`） |
+| メモリ | `-Xms4G -Xmx9G`（`user_jvm_args.txt`） |
+| 描画距離 | view-distance 10 / simulation-distance 8 |
+| バックアップ | Simple Backups が 2 時間ごとに `simplebackups/` へ出力。`simplebackups` は HDD の `/opt/minecraft/backups/lunatic-craft2` への symlink |
+| Discord | Simple Discord Link。トークンとチャンネルは server の `config/simple-discord-link/simple-discord-link.toml` にだけ置く |
+
+`server.properties` と Discord の設定は repository で管理しません。RCON のパスワードも server の `server.properties` にだけあります
+
+## 更新手順
+
+1. pack 定義を更新して GitHub へ push する
+2. 接続中のプレイヤーに予告する
+3. `systemctl restart lunatic-craft2` で再起動する。起動前に packwiz が差分を同期する
+4. `journalctl -u lunatic-craft2 -f` で `Done (` を確認する
+
+ワールド生成に関わる MOD を変えるときは、既存ワールドに入れる前に手元の dedicated server で確かめます
+
+## 新規ワールドの事前生成
+
+Chunky で生成しておくと、探索時の TPS 低下を抑えられます
+
+```text
+chunky world minecraft:overworld
+chunky center 0 0
+chunky radius 2000
+chunky start
+```

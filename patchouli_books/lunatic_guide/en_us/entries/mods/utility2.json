@@ -1,0 +1,20 @@
+{
+  "name": "便利な道具（続き）",
+  "icon": "sophisticatedbackpacks:backpack",
+  "category": "patchouli:mods",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Carry On$() — チェストや動物を持ち運べる$(li)$(l)Sophisticated Backpacks / Storage$() — バックパックと高機能チェスト$(li)$(l)FTB Ultimine$() — 鉱脈や木をまとめて壊す"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Reach Behind$() — 額縁などの裏のブロックを触れる$(li)$(l)Visual Workbench$() — 作業台の上にアイテムが表示される$(li)$(l)Pick Up Notifier$() — 拾ったアイテムを画面に表示する"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Polymorph$() — レシピが重なったときに完成品を選べる"
+    }
+  ]
+}

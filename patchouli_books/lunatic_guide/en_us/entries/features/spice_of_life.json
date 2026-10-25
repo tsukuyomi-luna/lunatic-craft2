@@ -1,0 +1,17 @@
+{
+  "name": "いろいろ食べてハートを増やす",
+  "icon": "solcarrot:food_book",
+  "category": "patchouli:features",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Spice of Life$() により、食べたことのある食べ物の種類が増えるほど、最大体力が増えます。$(br2)5 種類ごとにハートが 3 つ増え、150 種類まで食べると最大で $(l)+90 ハート$() になります。死んでも減りません。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "solcarrot:food_book",
+      "text": "$(l)Food Book$() は本とニンジンで作れます。食べた種類と、次にハートが増えるまでの数を確かめられます。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ルール",
+  "icon": "minecraft:writable_book",
+  "category": "patchouli:server",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "みんなが気持ちよく遊べるように、次のことを守ってください。$(li)他の人の建物や持ち物を、勝手に壊したり持っていったりしない$(li)大砲や爆発物は、他の人の土地の近くで使わない$(li)機械や乗り物を大量に動かし続けない。鯖が重くなったら声をかけ合う"
+    }
+  ]
+}

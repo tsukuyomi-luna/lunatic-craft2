@@ -1,0 +1,22 @@
+{
+  "name": "進む・曲がる",
+  "icon": "aeronautics:wooden_propeller",
+  "category": "patchouli:aeronautics",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "aeronautics:propeller_bearing",
+      "text": "$(l)プロペラベアリング$() の正面に帆を 2 枚以上つけると、回したときに推力が出ます。逆に回すか、レンチを使うと、推力の向きが逆になります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "ヘリコプターのように真上へ上がる乗り物には、プロペラが常に上を向く $(l)ジャイロプロペラベアリング$() が向いています。$(br2)回転力は $(l)ポータブルエンジン$() で作れます。燃料を燃やして回り、ブレイズケーキでさらに強くなります。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "simulated:steering_wheel",
+      "text": "$(l)舵輪$() は右クリック長押しでつかみ、マウスで回します。$(l)操縦桿$() は右クリックしてドラッグすると、出力するレッドストーン信号の強さを決められます。"
+    }
+  ]
+}

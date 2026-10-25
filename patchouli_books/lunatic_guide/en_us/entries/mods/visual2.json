@@ -1,0 +1,16 @@
+{
+  "name": "見た目と音（続き）",
+  "icon": "minecraft:ender_eye",
+  "category": "patchouli:mods",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Cinematic Respawn$() — 死んでから復活するまでの演出$(li)$(l)Iris$() — シェーダーを使えるようにする$(li)$(l)Japanese Language Pack$() — MOD の日本語訳を補う"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Sodium ほか$() — Sodium・Lithium・ModernFix などで動作を軽くする"
+    }
+  ]
+}

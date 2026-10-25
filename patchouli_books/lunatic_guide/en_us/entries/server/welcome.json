@@ -1,0 +1,16 @@
+{
+  "name": "この鯖について",
+  "icon": "minecraft:map",
+  "category": "patchouli:server",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lunatic Craft 2 は、$(l)Create$() と $(l)Create Aeronautics$() を中心にした、バニラの遊びを残した鯖です。$(br2)難しい工業 MOD や難易度を上げる MOD は入れていません。MOD に慣れていなくても、バニラの延長で遊べます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "わからないことは Discord で気軽に聞いてください。ゲーム内のチャットは Discord のチャンネルとつながっています。$(br2)レシピは $(l)EMI$() で調べられます。インベントリでアイテムにカーソルを合わせて $(l)R$() でレシピ、$(l)U$() で使い道です。"
+    }
+  ]
+}

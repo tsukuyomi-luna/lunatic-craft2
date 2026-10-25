@@ -1,0 +1,9 @@
+{
+  "name": "Lunatic Craft 2 ガイド",
+  "landing_text": "Lunatic Craft 2 へようこそ！$(br2)この本には、鯖のルール、Create と乗り物の始め方、便利な機能、入っている MOD の一覧をまとめています。$(br2)なくしたら、本と紙を組み合わせるともう一度作れます。",
+  "version": 1,
+  "use_resource_pack": false,
+  "i18n": false,
+  "model": "patchouli:book_brown",
+  "show_progress": false
+}

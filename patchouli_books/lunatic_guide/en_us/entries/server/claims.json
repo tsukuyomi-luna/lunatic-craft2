@@ -1,0 +1,20 @@
+{
+  "name": "土地の保護",
+  "icon": "minecraft:filled_map",
+  "category": "patchouli:server",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "拠点を作ったら $(l)FTB Chunks$() で土地を保護しましょう。保護したチャンクは、他の人が壊したり、チェストを開けたりできません。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)M$() キーで地図を開き、占有マネージャーの画面で守りたいチャンクを $(l)左ドラッグ$() すると保護できます。$(l)右ドラッグ$() で解除です。$(br2)友達と拠点を共有するときは、FTB Teams でチームを作ると、メンバー全員が使えるようになります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "保護した土地の上では、飛行船などの乗り物も守られます。他のチームの土地の空に入るときは、警告が出ます。"
+    }
+  ]
+}

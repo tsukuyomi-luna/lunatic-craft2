@@ -1,0 +1,17 @@
+{
+  "name": "車を作る",
+  "icon": "offroad:tire",
+  "category": "patchouli:aeronautics",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "offroad:wheel_mount",
+      "text": "$(l)ホイールマウント$() にタイヤをつけると、地上を走れます。上から信号を送るとブレーキ、横から送るとその向きにハンドルを切ります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "乗り物で他の人の土地に入るときは気をつけましょう。表示がおかしくなったら、シェーダーを切ってみてください。"
+    }
+  ]
+}

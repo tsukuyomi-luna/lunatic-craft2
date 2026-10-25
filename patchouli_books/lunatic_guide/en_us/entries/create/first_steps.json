@@ -1,0 +1,21 @@
+{
+  "name": "最初の一歩",
+  "icon": "create:water_wheel",
+  "category": "patchouli:create",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Create の機械は $(l)回転力$() で動きます。$(br2)まず $(l)安山岩合金$() を作り、$(l)シャフト$() や $(l)歯車$() を用意しましょう。回転力は $(l)水車$() や $(l)ハンドクランク$() で作れます。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "create:water_wheel",
+      "text": "川の流れに $(l)水車$() を置くと、ずっと回り続けます。シャフトや歯車で機械につなげば、回転力を送れます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "最初に作ると便利な機械$(br)$(li)$(l)石臼$() — 鉱石や作物を粉にする$(li)$(l)メカニカルプレス$() — 板金を作る$(li)$(l)ケース入りファン$() — 洗浄や精錬をまとめて行う$(br2)作り方は EMI で確認できます。"
+    }
+  ]
+}

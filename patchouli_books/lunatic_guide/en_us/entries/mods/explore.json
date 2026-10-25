@@ -1,0 +1,16 @@
+{
+  "name": "探索と地形",
+  "icon": "minecraft:compass",
+  "category": "patchouli:mods",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Terralith$() — 新しいバイオームを追加する$(li)$(l)Tectonic$() — 大陸や高い山など、地形を雄大にする$(li)$(l)YUNG's Better 系$() — ダンジョン・廃坑・寺院など、バニラの構造物を作り直す"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)IDAS$() — 作り込まれた大型の構造物を追加する$(li)$(l)Integrated Villages / Stronghold$() — 村と要塞を作り込んだものに置き換える$(li)$(l)Nature's Compass / Explorer's Compass$() — バイオームや構造物を探すコンパス"
+    }
+  ]
+}

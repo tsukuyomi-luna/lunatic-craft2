@@ -489,6 +489,11 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/perception.pw.toml"
 hash = "378f188dd4dd616783418b9169e6016d5eff359a13c6debeb64c82093637e8e9"
 metafile = true
@@ -702,6 +707,138 @@ metafile = true
 file = "options.txt"
 hash = "8d00de6381b79276a7f88fe086b4f6d7136e4d8d5e51b76df9e530f9df2db115"
 preserve = true
+
+[[files]]
+file = "patchouli_books/lunatic_guide/book.json"
+hash = "e3c55633fa2b0b820f5a7b5b39e771a961d0845013be0910f6193bc37ee16eec"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/categories/aeronautics.json"
+hash = "ea5f18438093ef70a4dac40043c0ba14b1d6c7e46ab9c5d9971b03004db12385"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/categories/create.json"
+hash = "41c1e40b88f9ebb2183a56397d5a5bd37ce67dc7108d6b745974f7b75ca144e6"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/categories/features.json"
+hash = "1ed8549c2016e4cde43012175c25cc4596b0220c499248ef06ed2bb7bf7053bf"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/categories/mods.json"
+hash = "bc9e0be2d183442fb597fd93148dbf9ccd5a15c9b8dc38a0bd6d51dd423dbf85"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/categories/server.json"
+hash = "609c727bd35282145f38eadf6dfd14ee3921f5d965745ad02df290c2353c2552"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/aeronautics/assemble.json"
+hash = "75377641d9fa1345e73affe0ec09fc3daa75cbbbb3d09104f223cc59256ffef8"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/aeronautics/ground.json"
+hash = "231225028679b72cdac0ae21056cc6fe06cf6f59e799768839064b1448aac0aa"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/aeronautics/lift.json"
+hash = "e7efddd336d2fedf7e92bf701590b9841634f32a0e59525042333c034d04b807"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/aeronautics/thrust.json"
+hash = "2f2e48d04e7938db8161388ca45a87f45db737a16ced4f28667b244a978bcb31"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/create/first_steps.json"
+hash = "b97ad9ce6376aff6986e90865628c43422a7242ffed5678a48c7af9e3630c4b2"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/create/ponder.json"
+hash = "7c32102f5cb8e5f00cf4bf752f017069b99a3c55f9f2e6c0582676aecc5bfecf"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/create/stress.json"
+hash = "96a3a6e9e1941e8db9bace3b4c1ac1e09d1de64b3bc41183828b7b4c5a052c74"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/features/death.json"
+hash = "48b4dba80fb1c9ef4fc9870e8d397a6388fc2524e1c711ef77a2193e0f8d9553"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/features/handy.json"
+hash = "4e5a8cf8ecf4c02e05409861611dd9e7b9160c99b8f986952a4775be5dde9362"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/features/spice_of_life.json"
+hash = "aa792bcf3ab58215754693a1cad1f80a807ed9e8efc3faca36190ae4cc0f8ca7"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/features/waystones.json"
+hash = "527093b8e7c27fb80619d975006fabee573c409635245e3cbaa6cc00b4dc642c"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/combat.json"
+hash = "e978b2d44b6ee0a746ef1c4fd1c88bf4f0d957b6ace8e723967a924e575daedc"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/create_core.json"
+hash = "353ffcc6595600829823e51f26aeca66e1c1e49a156919010024cd01975f6323"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/create_deco.json"
+hash = "d4aeaca04c4db1d468c91091c2a8995dcce2a2d889175a83a24e900e2dd6e78d"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/create_factory.json"
+hash = "e9c0316ff16d82886fd03612421d43108483b63bc9892a624b66931115e0a915"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/explore.json"
+hash = "2185b204045eaf41c4100d9c39bd2e27d2b23a1f5d1339bbf47687c804c46297"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/life.json"
+hash = "93e6ae6c044c318066d10aa43441e2efae929679542673d258c35e86f9fa8998"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/life2.json"
+hash = "4dc9d19b3d33b6636732911246736da8192baef65603375e47f7e0e5867d9b4e"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/multi.json"
+hash = "8c6764ef53b9f73f706cbec55160ff9d0e110a059cb3488c4020027046defa0d"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/ui.json"
+hash = "a882a26b3477a7b8697d19ec2a9ab2b21abbc8a4843bcbfd12e3a7dc385ed33f"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/utility.json"
+hash = "118746c1203412dfa6767961b5418c7b68fe44d4bf1973e5a03fa47b2f40d207"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/utility2.json"
+hash = "9e8a0a7b8e420b3e94a009d69aff7f3f3c1ce05c903eea65b5754a1656a1467f"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/visual.json"
+hash = "0a052d186a06e0a535cf7b43d486de89e617ad41266b9c568d373e6e0b4f3f7d"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/mods/visual2.json"
+hash = "bb99e595fe0cc6d20d35557a43d60806070d3b40a67a8e0c4cacb4037bb823a6"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/server/claims.json"
+hash = "b6a51f25dde0c74f13b2f30488dfbefbaa3ae5d92ea2633e8f480db1ecfe820f"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/server/rules.json"
+hash = "97b951feeeca162d102606f050b470f27ae63071151a074971fd6fb7aa2d132c"
+
+[[files]]
+file = "patchouli_books/lunatic_guide/en_us/entries/server/welcome.json"
+hash = "38917d9e3e8304a83b8918e4cca83392643cf8d68c327828b4203fa4800f0203"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

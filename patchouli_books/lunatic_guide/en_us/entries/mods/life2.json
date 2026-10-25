@@ -1,0 +1,16 @@
+{
+  "name": "生活と建築（続き）",
+  "icon": "minecraft:enchanted_book",
+  "category": "patchouli:mods",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Snow! Real Magic!$() — 雪が草や柵の上にも自然に積もる$(li)$(l)Easy Anvils / Easy Magic$() — 金床とエンチャント台を使いやすくする$(li)$(l)Beautiful Enchanted Books$() — エンチャント本の見た目が種類ごとに変わる"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Fast Leaf Decay$() — 木を切ると葉がすぐ消える"
+    }
+  ]
+}

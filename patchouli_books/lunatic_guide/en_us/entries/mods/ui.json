@@ -1,0 +1,16 @@
+{
+  "name": "画面と操作",
+  "icon": "minecraft:painting",
+  "category": "patchouli:mods",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Mouse Tweaks$() — マウスでのインベントリ操作を楽にする$(li)$(l)Controlling$() — キー設定を検索できる$(li)$(l)Overflowing Bars$() — 増えたハートを段に重ねて表示する"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Stylish Effects / Effect Insights$() — 状態異常の表示と説明$(li)$(l)Modern UI$() — 画面と文字の表示をきれいにする$(li)$(l)Chat Heads$() — チャットに発言者の顔を表示する"
+    }
+  ]
+}

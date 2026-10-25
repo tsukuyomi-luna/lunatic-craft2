@@ -1,0 +1,20 @@
+{
+  "name": "生活と建築",
+  "icon": "farmersdelight:cooking_pot",
+  "category": "patchouli:mods",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Farmer's Delight$() — 料理と農業を広げる$(li)$(l)Spice of Life: Carrot Edition$() — いろいろ食べるとハートが増える$(li)$(l)Supplementaries / Amendments$() — バニラ風の便利な小物"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Quark$() — バニラを少しずつ便利にする小さな追加$(li)$(l)Macaw's 系$() — 橋・屋根・ドア・窓・柵$(li)$(l)Handcrafted$() — 家具"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Slabbed$() — ハーフブロックの上に松明などを置ける"
+    }
+  ]
+}

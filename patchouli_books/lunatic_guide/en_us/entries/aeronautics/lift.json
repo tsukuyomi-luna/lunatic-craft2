@@ -1,0 +1,23 @@
+{
+  "name": "空に浮かべる",
+  "icon": "aeronautics:white_envelope",
+  "category": "patchouli:aeronautics",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "aeronautics:white_envelope",
+      "text": "$(l)気球ブロック$() で閉じた空間を作り、熱気を送ると浮力が生まれます。気球の中に余計なブロックがあると、その分だけ浮力が減ります。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aeronautics:adjustable_burner",
+      "text": "$(l)熱気バーナー$() はレッドストーン信号で気球に熱気を送ります。信号が強いほど出力が上がります。高く上がるほど浮力は弱くなり、重さと釣り合った高さで止まります。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "aeronautics:levitite",
+      "text": "$(l)レビタイト$() を十分につけると、擬似からくりは浮いたままになります。ただし高さは変えられないので、プロペラなど別の力と組み合わせます。"
+    }
+  ]
+}

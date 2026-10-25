@@ -1,0 +1,16 @@
+{
+  "name": "知っていると便利",
+  "icon": "minecraft:chest",
+  "category": "patchouli:features",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Carry On$() — 素手でスニークしながら右クリックすると、チェストや動物を持ち運べる$(li)$(l)FTB Ultimine$() — 「`」キーを押しながら壊すと、鉱脈や木をまとめて壊せる$(li)$(l)Sophisticated Backpacks$() — 持ち歩けるバックパック"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Reach Behind$() — 額縁や看板の裏のブロックを触れる$(li)$(l)Jade$() — 見ているブロックやモブの情報が画面上に出る$(li)$(l)Iron's Arms 'n Artifice$() — 銃を持って $(l)G$() で改造、$(l)R$() で弾を込める"
+    }
+  ]
+}

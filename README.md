@@ -22,7 +22,7 @@ Prism Launcher 用の zip を [Releases](https://github.com/tsukuyomi-luna/lunat
 - 生活・建築 — Farmer's Delight、Supplementaries、Quark、Macaw's 系、Handcrafted
 - マルチ — FTB Chunks / Teams（地図と土地保護）、FTB Chunks: Sable Aerospace（保護を乗り物にも適用）、Waystones、Simple Discord Link
 
-完全な一覧は `mods/` を参照してください
+初回参加時に渡すガイド本（Patchouli）の中身は `patchouli_books/lunatic_guide/` にあります。完全な一覧は `mods/` を参照してください
 
 ## サーバー
 

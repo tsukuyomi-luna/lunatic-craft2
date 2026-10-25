@@ -1,0 +1,20 @@
+{
+  "name": "便利な道具",
+  "icon": "minecraft:spyglass",
+  "category": "patchouli:mods",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)EMI$() — レシピを調べる。R でレシピ、U で使い道$(li)$(l)EMI Ores / Loot / Enchanting$() — 鉱石の分布、ドロップ、エンチャントを調べる$(li)$(l)Just Enough Breeding / EMIffect$() — 動物の繁殖と状態異常を調べる"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Jade$() — 見ているブロックやモブの情報を表示する$(li)$(l)AppleSkin$() — 食べ物の満腹度を詳しく表示する$(li)$(l)Waystones$() — 転移ポイントでテレポートする"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Corpse$() — 死んだ場所に持ち物入りの死体が残る"
+    }
+  ]
+}

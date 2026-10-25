@@ -1,0 +1,12 @@
+{
+  "name": "魔法と武器",
+  "icon": "irons_spellbooks:gold_spell_book",
+  "category": "patchouli:mods",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Iron's Spells 'n Spellbooks$() — 呪文書に呪文をセットして魔法を使う$(li)$(l)Iron's Arms 'n Artifice$() — 火打ち石式の銃と、その改造"
+    }
+  ]
+}

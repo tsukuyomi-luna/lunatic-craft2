@@ -1,0 +1,20 @@
+{
+  "name": "Create の装飾",
+  "icon": "create:andesite_casing",
+  "category": "patchouli:mods",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create Deco$() — 工場風の装飾ブロック$(li)$(l)Create: Design n' Decor$() — 工場風の装飾ブロックと家具$(li)$(l)Create: Copycats+$() — ほかのブロックの見た目を写せるブロック"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create: Bells & Whistles$() — 列車まわりの装飾$(li)$(l)Create: Interiors$() — 座席やソファなどの家具$(li)$(l)Create Encased$() — シャフトや歯車を好きなケースで覆う"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create Goggles$() — エンジニアのゴーグル付きヘルメット"
+    }
+  ]
+}

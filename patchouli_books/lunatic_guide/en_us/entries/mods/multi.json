@@ -1,0 +1,16 @@
+{
+  "name": "マルチプレイ",
+  "icon": "minecraft:filled_map",
+  "category": "patchouli:mods",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)FTB Chunks / FTB Teams$() — 地図と土地の保護、チーム$(li)$(l)FTB Chunks: Sable Aerospace$() — 土地の保護を乗り物にも広げる$(li)$(l)Simple Discord Link$() — ゲーム内のチャットを Discord とつなぐ"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)BlueMap$() — ブラウザで見られる地図$(li)$(l)Distant Horizons$() — 遠くの景色まで表示する"
+    }
+  ]
+}

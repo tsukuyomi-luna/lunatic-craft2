@@ -1,0 +1,12 @@
+{
+  "name": "死んだとき",
+  "icon": "minecraft:skeleton_skull",
+  "category": "patchouli:features",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "死ぬと、その場所に持ち物の入った $(l)死体$() が残ります。死体を右クリックすれば、持ち物を取り戻せます。"
+    }
+  ]
+}

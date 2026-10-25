@@ -1,0 +1,17 @@
+{
+  "name": "まずは Ponder",
+  "icon": "create:goggles",
+  "category": "patchouli:create",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Create のアイテムは、インベントリでカーソルを合わせて $(l)W キーを長押し$() すると、$(l)Ponder$() という動く解説が見られます。$(br2)使い方に迷ったら、まず Ponder を見るのがおすすめです。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "create:goggles",
+      "text": "$(l)エンジニアのゴーグル$() をかぶると、機械の回転の速さや、どれだけ力を使っているかが見えるようになります。最初に作っておくと便利です。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "乗り物を組み立てる",
+  "icon": "simulated:physics_assembler",
+  "category": "patchouli:aeronautics",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Create Aeronautics では、ブロックを組んで作った構造物を $(l)擬似からくり$() として動かせます。擬似からくりには重さがあり、物理で動きます。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "simulated:physics_assembler",
+      "text": "$(l)物理アセンブラ$() を構造物につなげ、$(l)超粘着剤$() か $(l)超蜜着剤$() で範囲を指定します。物理アセンブラを右クリック長押ししてレバーを引くと組み立てられます。$(br)ばらすときも物理アセンブラを使います。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "simulated:honey_glue",
+      "text": "$(l)超蜜着剤$() は擬似からくり専用の接着剤です。始点と終点をクリックして範囲を作ります。複雑な形の乗り物は、超粘着剤よりこちらが向いています。"
+    }
+  ]
+}

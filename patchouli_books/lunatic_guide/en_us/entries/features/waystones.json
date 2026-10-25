@@ -1,0 +1,17 @@
+{
+  "name": "転移ポイント",
+  "icon": "waystones:waystone",
+  "category": "patchouli:features",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "waystones:waystone",
+      "text": "$(l)転移ポイント$() を右クリックすると登録され、ほかの登録済みの転移ポイントへ移動できます。村などにも最初から置かれていることがあります。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)転移の巻物$() や $(l)帰還の巻物$() を使えば、転移ポイントの外からでも移動できます。"
+    }
+  ]
+}

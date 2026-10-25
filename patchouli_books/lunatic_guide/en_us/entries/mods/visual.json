@@ -1,0 +1,20 @@
+{
+  "name": "見た目と音",
+  "icon": "minecraft:jukebox",
+  "category": "patchouli:mods",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Fresh Animations$() — モブの動きを細かくする$(li)$(l)Custom Player Animations$() — プレイヤーの動きを細かくする$(li)$(l)3D Skin Layers$() — スキンの外側のパーツを立体にする"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Perception$() — 環境の見た目の演出を増やす$(li)$(l)Swirling Smoke$() — 煙が風に流れる$(li)$(l)Explosive Enhancement$() — 爆発の見た目を豪華にする"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Sound Physics Remastered$() — 洞窟で音が響くなど、音を自然にする"
+    }
+  ]
+}

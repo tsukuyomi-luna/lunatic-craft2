@@ -1,0 +1,20 @@
+{
+  "name": "Create と乗り物",
+  "icon": "create:cogwheel",
+  "category": "patchouli:mods",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create$() — 歯車と回転力で動く機械を組む。この鯖の中心$(li)$(l)Create Aeronautics$() — 飛行船・飛行機・車など、物理で動く乗り物を作れる$(li)$(l)Create: Tweaked Controllers$() — 乗り物や装置をコントローラーで操作する"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create Jetpack$() — 背負ったタンクの圧縮空気で空を飛ぶ$(li)$(l)Create Big Cannons$() — 大砲を組み立てて撃つ$(li)$(l)Create: Radars$() — レーダーなどの探知装置"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create: Power Loader$() — 列車や装置の周りのチャンクを読み込んだままにする"
+    }
+  ]
+}

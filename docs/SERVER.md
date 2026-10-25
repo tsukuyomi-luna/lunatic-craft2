@@ -18,6 +18,10 @@ server もクライアントと同じ `pack.toml` を参照し、packwiz-install
 
 `server.properties` と Discord の設定は repository で管理しません。RCON のパスワードも server の `server.properties` にだけあります
 
+## ガイド本
+
+初回参加時にガイド本を渡すデータパックは、ワールドに入れるため packwiz では配りません。新しいワールドを作ったら、repository の `datapacks/lunatic_guide` を server の `world/datapacks/` にコピーして `/reload` します。本の中身（`patchouli_books/`）は packwiz で配ります
+
 ## 更新手順
 
 1. pack 定義を更新して GitHub へ push する

@@ -1,0 +1,20 @@
+{
+  "name": "Create の生産と物流",
+  "icon": "create:mechanical_press",
+  "category": "patchouli:mods",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create: Enchantment Industry$() — 経験値とエンチャントを自動化する$(li)$(l)Create: Central Kitchen$() — 料理 MOD の調理を Create で自動化する$(li)$(l)Create Slice & Dice$() — Farmer's Delight のまな板作業を自動化する"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create: Trading Floor$() — 村人との取引を自動化する$(li)$(l)Create: Numismatics$() — Create 風の通貨とお店$(li)$(l)Create: Connected$() — Create にあると便利な小さな機械やブロック"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Create: Pattern Schematics$() — 繰り返し模様を設計図で建てる$(li)$(l)Create Ultimine$() — FTB Ultimine と Create の連携$(li)$(l)Sophisticated Storage Create Integration$() — 高機能チェストを Create の機械とつなぐ"
+    }
+  ]
+}

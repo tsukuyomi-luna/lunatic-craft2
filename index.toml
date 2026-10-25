@@ -645,8 +645,23 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "2e6c2fe0bcfad88e2e1adcd2c3e4fca07d04e4a97a3e2c420f9c0a613ebf7f95"
+preserve = true
+
+[[files]]
 file = "resourcepacks/detailed-animations.pw.toml"
-hash = "9d1a0805f37bd29162c45214a4c6a01d6328e112a2406165a2cc10eb5baee926"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "174dfc4e2332878c681272c43ed881f963ec34f9560a8f7e858eb1927c99fa51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/japanese-language-pack.pw.toml"
+hash = "7823678ea92247b4e62ef5bcdf0377caf2dd944231f91046b690b312c3c74194"
 metafile = true
 
 [[files]]

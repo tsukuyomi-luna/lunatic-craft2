@@ -1,6 +1,6 @@
 name = "Detailed Animations"
 filename = "DetailedAnimationsReworked - V1.15.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9pR04wDX/versions/dFBidLNv/DetailedAnimationsReworked%20-%20V1.15.zip"

@@ -1,0 +1,13 @@
+name = "Japanese Language Pack"
+filename = "AzukiV51.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GuKov5Yd/versions/D2ncsiXv/AzukiV51.zip"
+hash-format = "sha512"
+hash = "0ee49de90d37dc92750b31ca740aa62adb885540163d0672f4383822f6f3ec041e535b7aefc9717e7810b322b87ab5c36cd63f5697158112f5009fca95d7a8e3"
+
+[update]
+[update.modrinth]
+mod-id = "GuKov5Yd"
+version = "D2ncsiXv"

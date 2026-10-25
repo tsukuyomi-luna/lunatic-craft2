@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "7c2aacdd595b22ad7d087c1c5d7945e1bac80cbd935770396c5a89194bfe9eb7"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -453,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "95852dac201a784091aaccc2249151b527a418935e78b8cafd276384eea532d5"
 metafile = true
 
 [[files]]
